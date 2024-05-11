@@ -1,0 +1,90 @@
+.elementor-33 .elementor-element.elementor-element-2d6bec43:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-33 .elementor-element.elementor-element-2d6bec43>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://demothemesflat.co/clenizkit/wp-content/uploads/2023/03/16_Home_Clean_House.jpg");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+.elementor-33 .elementor-element.elementor-element-2d6bec43>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 20px 0px 0px;
+    --e-column-margin-right: 20px;
+    --e-column-margin-left: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-33 .elementor-element.elementor-element-2d6bec43>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-33 .elementor-element.elementor-element-4ed1c869 .elementor-heading-title {
+    color: var( --e-global-color-81f5a65);
+    font-family: var( --e-global-typography-5a45ab5-font-family), Sans-serif;
+    font-size: var( --e-global-typography-5a45ab5-font-size);
+    font-weight: var( --e-global-typography-5a45ab5-font-weight);
+    line-height: var( --e-global-typography-5a45ab5-line-height);
+    letter-spacing: var( --e-global-typography-5a45ab5-letter-spacing);
+    word-spacing: var( --e-global-typography-5a45ab5-word-spacing);
+}
+
+.elementor-33 .elementor-element.elementor-element-4ed1c869>.elementor-widget-container {
+    padding: 0px 30px 0px 0px;
+}
+
+.elementor-33 .elementor-element.elementor-element-6ceeb5c8 .elementor-star-rating i:before {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-33 .elementor-element.elementor-element-6ceeb5c8>.elementor-widget-container {
+    padding: 0px 10px 0px 0px;
+}
+
+.elementor-33 .elementor-element.elementor-element-6ceeb5c8 {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-33 .elementor-element.elementor-element-e531c63 .elementor-heading-title {
+    color: var( --e-global-color-81f5a65);
+    font-family: var( --e-global-typography-c1581d1-font-family), Sans-serif;
+    font-size: var( --e-global-typography-c1581d1-font-size);
+    font-weight: var( --e-global-typography-c1581d1-font-weight);
+    line-height: var( --e-global-typography-c1581d1-line-height);
+    letter-spacing: var( --e-global-typography-c1581d1-letter-spacing);
+    word-spacing: var( --e-global-typography-c1581d1-word-spacing);
+}
+
+.elementor-33 .elementor-element.elementor-element-e531c63 {
+    width: auto;
+    max-width: auto;
+}
+
+@media(max-width:1024px) {
+    .elementor-33 .elementor-element.elementor-element-4ed1c869 .elementor-heading-title {
+        font-size: var( --e-global-typography-5a45ab5-font-size);
+        line-height: var( --e-global-typography-5a45ab5-line-height);
+        letter-spacing: var( --e-global-typography-5a45ab5-letter-spacing);
+        word-spacing: var( --e-global-typography-5a45ab5-word-spacing);
+    }
+    .elementor-33 .elementor-element.elementor-element-e531c63 .elementor-heading-title {
+        font-size: var( --e-global-typography-c1581d1-font-size);
+        line-height: var( --e-global-typography-c1581d1-line-height);
+        letter-spacing: var( --e-global-typography-c1581d1-letter-spacing);
+        word-spacing: var( --e-global-typography-c1581d1-word-spacing);
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-33 .elementor-element.elementor-element-4ed1c869 .elementor-heading-title {
+        font-size: var( --e-global-typography-5a45ab5-font-size);
+        line-height: var( --e-global-typography-5a45ab5-line-height);
+        letter-spacing: var( --e-global-typography-5a45ab5-letter-spacing);
+        word-spacing: var( --e-global-typography-5a45ab5-word-spacing);
+    }
+    .elementor-33 .elementor-element.elementor-element-e531c63 .elementor-heading-title {
+        font-size: var( --e-global-typography-c1581d1-font-size);
+        line-height: var( --e-global-typography-c1581d1-line-height);
+        letter-spacing: var( --e-global-typography-c1581d1-letter-spacing);
+        word-spacing: var( --e-global-typography-c1581d1-word-spacing);
+    }
+}

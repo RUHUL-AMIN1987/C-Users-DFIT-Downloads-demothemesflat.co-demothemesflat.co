@@ -1,0 +1,192 @@
+.elementor-kit-7 {
+    --e-global-color-primary: #2D82F5;
+    --e-global-color-secondary: #F7EF1F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-81f5a65: #0D0D0D;
+    --e-global-color-831b650: #888888;
+    --e-global-color-faf6874: #0D0D0D;
+    --e-global-color-3b78443: #222222;
+    --e-global-color-aa18c2c: #2D82F51A;
+    --e-global-typography-primary-font-family: "Comfortaa";
+    --e-global-typography-primary-font-size: 60px;
+    --e-global-typography-primary-font-weight: bold;
+    --e-global-typography-primary-line-height: 60px;
+    --e-global-typography-secondary-font-family: "Comfortaa";
+    --e-global-typography-secondary-font-size: 48px;
+    --e-global-typography-secondary-font-weight: 700;
+    --e-global-typography-secondary-line-height: 60px;
+    --e-global-typography-text-font-family: "Manrope";
+    --e-global-typography-text-font-size: 14px;
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-text-line-height: 25px;
+    --e-global-typography-accent-font-family: "Spartan";
+    --e-global-typography-accent-font-size: 14px;
+    --e-global-typography-accent-font-weight: 400;
+    --e-global-typography-accent-line-height: 26px;
+    --e-global-typography-c1581d1-font-family: "Spartan";
+    --e-global-typography-c1581d1-font-size: 15px;
+    --e-global-typography-c1581d1-font-weight: 600;
+    --e-global-typography-c1581d1-line-height: 25px;
+    --e-global-typography-0c54339-font-family: "Spartan";
+    --e-global-typography-0c54339-font-size: 13px;
+    --e-global-typography-0c54339-font-weight: 400;
+    --e-global-typography-0c54339-line-height: 24px;
+    --e-global-typography-3956bf5-font-family: "Spartan";
+    --e-global-typography-3956bf5-font-size: 14px;
+    --e-global-typography-3956bf5-font-weight: 600;
+    --e-global-typography-3956bf5-line-height: 24px;
+    --e-global-typography-3956bf5-letter-spacing: 1.5px;
+    --e-global-typography-521670e-font-family: "Spartan";
+    --e-global-typography-521670e-font-size: 13px;
+    --e-global-typography-521670e-font-weight: 600;
+    --e-global-typography-521670e-letter-spacing: 1px;
+    --e-global-typography-f8d231a-font-family: "Nunito Sans";
+    --e-global-typography-f8d231a-font-size: 15px;
+    --e-global-typography-f8d231a-font-weight: 500;
+    --e-global-typography-623cd4b-font-family: "Spartan";
+    --e-global-typography-623cd4b-font-size: 15px;
+    --e-global-typography-623cd4b-font-weight: bold;
+    --e-global-typography-623cd4b-line-height: 25px;
+    --e-global-typography-3a1b983-font-family: "Spartan";
+    --e-global-typography-3a1b983-font-size: 17px;
+    --e-global-typography-3a1b983-font-weight: 600;
+    --e-global-typography-3a1b983-line-height: 30px;
+    --e-global-typography-2e955bf-font-family: "Lora";
+    --e-global-typography-2e955bf-font-size: 20px;
+    --e-global-typography-2e955bf-font-weight: 500;
+    --e-global-typography-2e955bf-font-style: italic;
+    --e-global-typography-2e955bf-line-height: 30px;
+    --e-global-typography-597f992-font-family: "Comfortaa";
+    --e-global-typography-597f992-font-size: 42px;
+    --e-global-typography-597f992-font-weight: 300;
+    --e-global-typography-597f992-line-height: 60px;
+    --e-global-typography-5a45ab5-font-family: "Spartan";
+    --e-global-typography-5a45ab5-font-size: 20px;
+    --e-global-typography-5a45ab5-font-weight: 400;
+    --e-global-typography-5a45ab5-line-height: 30px;
+    --e-global-typography-35cb03f-font-family: "Comfortaa";
+    --e-global-typography-35cb03f-font-size: 30px;
+    --e-global-typography-35cb03f-font-weight: 700;
+    --e-global-typography-35cb03f-line-height: 46px;
+    --e-global-typography-7832a97-font-family: "Comfortaa";
+    --e-global-typography-7832a97-font-size: 13px;
+    --e-global-typography-7832a97-font-weight: 700;
+    --e-global-typography-7832a97-line-height: 25px;
+    --e-global-typography-9338ffc-font-family: "Comfortaa";
+    --e-global-typography-9338ffc-font-size: 22px;
+    --e-global-typography-9338ffc-font-weight: 700;
+    --e-global-typography-9338ffc-line-height: 30px;
+    --e-global-typography-8ea096a-font-family: "Spartan";
+    --e-global-typography-8ea096a-font-size: 13px;
+    --e-global-typography-8ea096a-font-weight: 500;
+    --e-global-typography-8ea096a-line-height: 24px;
+    --e-global-typography-8ea096a-letter-spacing: 1.5px;
+    font-family: "Spartan", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.elementor-kit-7 h1 {
+    font-family: "Comfortaa", Sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.elementor-kit-7 h2 {
+    font-family: "Comfortaa", Sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.elementor-kit-7 h3 {
+    font-family: "Comfortaa", Sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.elementor-kit-7 h4 {
+    font-family: "Comfortaa", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.elementor-kit-7 h5 {
+    font-family: "Comfortaa", Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.elementor-kit-7 button,
+.elementor-kit-7 input[type="button"],
+.elementor-kit-7 input[type="submit"],
+.elementor-kit-7 .elementor-button {
+    font-family: "Spartan", Sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 26px;
+    color: var( --e-global-color-81f5a65);
+    background-color: var( --e-global-color-secondary);
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 30px 15px 30px;
+}
+
+.elementor-kit-7 button:hover,
+.elementor-kit-7 button:focus,
+.elementor-kit-7 input[type="button"]:hover,
+.elementor-kit-7 input[type="button"]:focus,
+.elementor-kit-7 input[type="submit"]:hover,
+.elementor-kit-7 input[type="submit"]:focus,
+.elementor-kit-7 .elementor-button:hover,
+.elementor-kit-7 .elementor-button:focus {
+    color: var( --e-global-color-81f5a65);
+    background-color: var( --e-global-color-primary);
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1170px;
+}
+
+.e-con {
+    --container-max-width: 1170px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-block-end: 10px;
+}
+
+.elementor-element {
+    --widgets-spacing: 10px 10px;
+}
+
+{}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+.site-header {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+@media(max-width:1024px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px;
+    }
+    .e-con {
+        --container-max-width: 1024px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px;
+    }
+    .e-con {
+        --container-max-width: 767px;
+    }
+}
